@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Razer: Deathstalker"
+title:  "Razer: Deathstalker [Regalado]"
 date:   2018-03-07 23:07:19 -0300
 categories: gaming
 ---
