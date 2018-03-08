@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tern: Link C7"
+date:   2018-03-07 23:07:19 -0300
+categories: tern
+---
+[Website][product-website]
+
+_"Precio a determinar"_
+
+_DESCRIPCION: TBD_
+
+[product-website]: https://www.ternbicycles.com/cl/bikes/473/link-c7
